@@ -1,0 +1,16 @@
+*pyc
+*~
+.ctp
+_
+admin.py
+_db.py
+_pay.py
+logs
+blob
+bots
+img/mgc
+css/ct.css
+css/mgc.css
+html-production/CT
+js/CT
+js/mgc
